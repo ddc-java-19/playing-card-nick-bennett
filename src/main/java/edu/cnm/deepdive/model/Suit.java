@@ -1,4 +1,4 @@
-package edu.cnm.deepdive;
+package edu.cnm.deepdive.model;
 
 public enum Suit {
 
@@ -26,5 +26,5 @@ public enum Suit {
   public enum Color {
     BLACK, RED
   }
-  
+
 }
