@@ -8,7 +8,7 @@ import java.util.List;
 
 public class Deck {
 
-  private final List<Card> cards = new ArrayList<Card>();
+  private final List<Card> cards = new ArrayList<>();
 
   private Iterator<Card> iterator;
 
